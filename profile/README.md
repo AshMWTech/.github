@@ -1,3 +1,5 @@
+<img align="center" src="https://cdn.enecs.software/.global/nx_full_color.png" alt="Enecs Software Logo"/>
+
 ## Links
 
 - [Website](https://enecs.software)
